@@ -1,0 +1,10 @@
+Today Goals✅
+Create User Account
+--Mongoose setup
+---Schema
+----model creation
+-----userCreate => password => hash
+------jwt token => cookie set
+
+
+--login part => token => decrypt => email
